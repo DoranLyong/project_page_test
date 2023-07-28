@@ -1,7 +1,9 @@
 # SPANet Project Page
 
+![banner_img](./static/images/banner_img.png)
 
 ## Acknowledgments
+
 Parts of this project page were adopted from the [Nerfies](https://nerfies.github.io/) page.
 
 ## Website License
